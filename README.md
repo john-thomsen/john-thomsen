@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an Engineer in the Platform/Cloud/DevOps space.
+
+Working as an Infrastructure Engineer in Denver, Colorado. ⛷️
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=john-thomsen&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
