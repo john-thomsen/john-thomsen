@@ -4,6 +4,8 @@ I'm an Engineer in the Platform/Cloud/DevOps space.
 
 Working as an Infrastructure Engineer in Denver, Colorado. ⛷️
 
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=john-thomsen&count_private=true) -->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=john-thomsen&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
