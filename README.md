@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Engineer in the Backend/Platform/Cloud/DevOps space utilizing TS/JS/Node, AWS, Terraform and technologies like that.
+I'm a Software Engineer in the Backend/Platform/Cloud/DevOps space utilizing TS/JS/Node, AWS, Terraform and technologies like that.
 
 Working as a Backend Engineer in Denver, Colorado. ⛷️
 
