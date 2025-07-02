@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm an Engineer in the Platform/Cloud/DevOps space.
+I'm an Engineer in the Backend/Platform/Cloud/DevOps space utilizing TS/JS/Node, AWS, Terraform and technologies like that.
 
-Working as an Infrastructure Engineer in Denver, Colorado. ⛷️
+Working as a Backend Engineer in Denver, Colorado. ⛷️
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=john-thomsen&count_private=true) -->
 
